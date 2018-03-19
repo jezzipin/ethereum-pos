@@ -9,13 +9,13 @@ storiesOf('GravatarProfile')
 
 	.add('known user', () => (
 		<GravatarProfile
-			username='jezzipin'
+			email='coinface1@mail.com'
 		/>
 	))
 
 	.add('unknown user', () => (
 		<GravatarProfile
-			username='giohsdhsnasdada'
+			email='ag2:asd@test.com'
 		/>
 	))
 
